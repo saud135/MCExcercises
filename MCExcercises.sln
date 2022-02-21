@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCExcercises", "MCExcercises\MCExcercises.csproj", "{FE80DA76-FEE2-4B22-8B23-7896CD8E2254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MCExcercises", "MCExcercises\MCExcercises.csproj", "{FE80DA76-FEE2-4B22-8B23-7896CD8E2254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCETests", "MCETests\MCETests.csproj", "{3CED91B6-AFB9-4763-A4B4-C54F6CB7B28E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MCETests", "MCETests\MCETests.csproj", "{3CED91B6-AFB9-4763-A4B4-C54F6CB7B28E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonExcercises", "PythonExcercises\PythonExcercises.pyproj", "{53A3399F-F572-46E6-9A9C-D066DBCEC579}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,8 @@ Global
 		{3CED91B6-AFB9-4763-A4B4-C54F6CB7B28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CED91B6-AFB9-4763-A4B4-C54F6CB7B28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CED91B6-AFB9-4763-A4B4-C54F6CB7B28E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A3399F-F572-46E6-9A9C-D066DBCEC579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A3399F-F572-46E6-9A9C-D066DBCEC579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
